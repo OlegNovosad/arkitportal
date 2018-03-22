@@ -11,5 +11,9 @@ The environment.jpg/environment_blur.exr is from Apple demo
 
 [![Rough ARKit portal demo](https://raw.githubusercontent.com/bjarnel/arkit-portal/master/portalyoutube.png)](https://www.youtube.com/watch?v=qswaHs65pLc "Rough ARKit portal demo")
 
-## Author
+## Modified by
+
+Oleg Novosad / adminnovik@gmail.com
+
+## Original Author
 Bjarne Lundgren / bjarne@sent.com / [@bjarnel](https://twitter.com/bjarnel)
